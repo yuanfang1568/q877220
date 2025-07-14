@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://media.giphy.com/media/f3oXKfLFxkqYbhKlp0/giphy.gif" width="35"> 你好，我是 q877220
+# <img src="https://media.giphy.com/media/f3oXKfLFxkqYbhKlp0/giphy.gif" width="35"> 你好，我是 **q877220** 👋
 
 ![访问次数](https://komarev.com/ghpvc/?username=q877220&color=00e1ff&style=for-the-badge&label=访问次数)
 [![GitHub关注者](https://img.shields.io/github/followers/q877220?style=for-the-badge&color=00e1ff&label=关注者)](https://github.com/q877220)
@@ -14,7 +14,10 @@
 
 </div>
 
+---
+
 ## 🎯 个人简介
+
 ```yaml
 {
   "基本信息": {
@@ -22,7 +25,7 @@
     "职业": "全栈开发工程师",
     "工作地": "云端开发 ☁️",
     "时区": "UTC",
-    "更新时间": "2025-05-02 07:13:18"
+    "更新时间": "2025-07-14 14:19:13"
   },
   "当前状态": {
     "学习中": ["Rust语言 🦀", "人工智能 🤖", "WebAssembly 🕸️"],
@@ -31,6 +34,8 @@
   }
 }
 ```
+
+---
 
 ## 💻 技术栈
 
@@ -45,6 +50,8 @@
 
 </div>
 
+---
+
 ### ☁️ 云原生技术
 <div align="center">
 
@@ -56,6 +63,8 @@
 
 </div>
 
+---
+
 ### 🎨 前端技术
 <div align="center">
 
@@ -66,6 +75,8 @@
 
 </div>
 
+---
+
 ### 📊 数据技术
 <div align="center">
 
@@ -75,6 +86,8 @@
 ![消息队列](https://img.shields.io/badge/消息队列-Kafka-000?style=for-the-badge&logo=apachekafka)
 
 </div>
+
+---
 
 ## 📈 统计数据
 
@@ -90,6 +103,8 @@
     </tr>
   </table>
 </div>
+
+---
 
 ## 🌟 开源项目
 <div align="center">
@@ -109,6 +124,8 @@
   </table>
 </div>
 
+---
+
 ## 🔥 活跃度
 
 <div align="center">
@@ -119,6 +136,8 @@
 ![活动图表](https://github-readme-activity-graph.vercel.app/graph?username=q877220&theme=react&bg_color=0D1117&hide_border=true&line=00E1FF&color=00E1FF&custom_title=最近活动记录)
 
 </div>
+
+---
 
 ## 🤝 社交平台
 <div align="center">
@@ -165,9 +184,10 @@
 
 </div>
 
-<!-- 访问计数器 -->
+---
+
 <div align="center">
   
-### 访问统计
+### 📊 访问统计
   <img src="https://profile-counter.glitch.me/q877220/count.svg" />
 </div>
