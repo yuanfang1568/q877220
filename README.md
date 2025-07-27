@@ -1,74 +1,20 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/f3oXKfLFxkqYbhKlp0/giphy.gif" width="60"/>
-  <h2>Hi, I'm <b>q877220（远方）</b> 👋</h2>
-  <p>全栈开发工程师 | Cloud Native Enthusiast | 开源热爱者</p>
-  <p>专注于高性能系统、云原生、微服务、边缘计算</p>
-
-  <img src="https://komarev.com/ghpvc/?username=q877220&color=00e1ff&style=for-the-badge&label=访问次数" alt="visitors"/>
-  <a href="https://github.com/q877220?tab=followers">
-    <img src="https://img.shields.io/github/followers/q877220?style=for-the-badge&color=00e1ff&label=关注者"/>
-  </a>
-</div>
-
----
-
-## 🚀 About Me | 关于我
-
-- 🔭 热衷于云原生与高并发系统架构，追求极致代码与卓越用户体验
-- 🌱 持续学习 Rust, Go, Python 等新技术
-- 📝 分享技术博客、架构实践与开源经验
-- 🎯 Motto: 工匠精神，追求极致 | Code changes the world
-
----
-
-## 🛠️ Tech Stack | 技术栈
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/微前端-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/云原生-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/边缘计算-4CAF50?style=for-the-badge"/>
-</div>
-
----
-
-## 🌟 Open Source Projects | 开源项目
-
-- [cloud-native-stack](https://github.com/q877220/cloud-native-stack)：企业级云原生应用脚手架
-- [awesome-microservices](https://github.com/q877220/awesome-microservices)：微服务技术与实战精选
-- 还有更多，欢迎访问 [我的GitHub主页](https://github.com/q877220?tab=repositories)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=q877220&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q877220&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-## 🤝 Connect with Me | 联系我
-
-<div align="center">
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/邮箱-email-00e1ff?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-blog.com">
-    <img src="https://img.shields.io/badge/博客-blog-orange?style=for-the-badge"/>
-  </a>
-  <!-- 你可以添加更多社交链接，如知乎、CSDN、掘金等 -->
-</div>
-
----
-
-<p align="center">
-  <b>“工匠精神，追求极致”<br/>
-  Code changes the world.</b>
-</p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48C9B0,100:5DADE2&height=200&section=header&text=YuanFang%20Zone&fontSize=45&fontAlignY=40&desc=全栈极客·云原生玩家·开源布道者&descSize=20&descAlignY=65" /> </div> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7CA18&center=true&vCenter=true&width=700&height=45&lines=你好，世界！;Hi+there+👋;全栈开发者 | 云原生 | 开源;追求极致，热爱创新" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yuanfang1568&label=Profile+Views&color=brightgreen" alt="Profile Views" /> <a href="https://github.com/yuanfang1568?tab=followers"> <img src="https://img.shields.io/github/followers/yuanfang1568?label=Follow&style=social" /> </a> <img src="https://img.shields.io/badge/码力-爆棚-critical" /> <img src="https://img.shields.io/badge/云原生-布道者-blueviolet" /> <img src="https://img.shields.io/badge/创新-永不止步-brightgreen" /> </p>
+🚀 关于我
+🦾 专注高性能系统、云原生、微服务、边缘计算
+📚 持续学习：AI、分布式、DevOps、前端新技术
+💬 热衷开源，乐于分享
+🏆 目标：做最牛的极客，创造改变世界的代码
+🛠 技术栈 && 工具箱
+<p align="center"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/云原生-00BFFF?style=for-the-badge"/> <img src="https://img.shields.io/badge/边缘计算-FF8C00?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI-神经网络-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/极客精神-火力全开-red?style=for-the-badge"/> </p>
+🌈 代表项目
+🚩 Awesome-K8s-Edge —— 最全边缘计算/云原生资料库
+🚩 Go-Cloud-Template —— 企业级云原生工程脚手架
+🚩 Micro-Frontend-Starter —— 微前端最佳实践
+📈 GitHub 活跃统计
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuanfang1568&show_icons=true&theme=radical&hide_title=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanfang1568&layout=compact&theme=radical" /> <img src="https://github-profile-trophy.vercel.app/?username=yuanfang1568&row=1&theme=onestar" /> </div>
+🤝 联系我
+📫 Email: yuanfang1568@gmail.com
+🌏 Blog: https://yuanfang.info
+🔗 知乎 ｜ 掘金 ｜ CSDN
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> <br/> <b>工匠精神，追求极致！Make code change the world!</b> </div>
